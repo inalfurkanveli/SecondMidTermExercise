@@ -3,4 +3,5 @@ project(SecondMidtermExercise)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(SecondMidtermExercise main.cpp)
+add_executable(SecondMidtermExercise main.cpp
+        exercise2.cpp)
